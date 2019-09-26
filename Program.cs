@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_DataStructures {
+namespace MasterProject {
     class Program {
         static void Main (string[] args) {
             FAQ.NullCheck.Test ();

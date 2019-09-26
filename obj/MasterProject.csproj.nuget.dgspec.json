@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\C#DataStructures.csproj": {}
+    "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\MasterProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\C#DataStructures.csproj": {
+    "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\MasterProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\C#DataStructures.csproj",
-        "projectName": "C#DataStructures",
-        "projectPath": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\C#DataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\MasterProject.csproj",
+        "projectName": "MasterProject",
+        "projectPath": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\MasterProject.csproj",
         "packagesPath": "C:\\Users\\dinesh.b\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\obj\\",
         "projectStyle": "PackageReference",
