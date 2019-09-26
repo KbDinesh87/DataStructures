@@ -1,0 +1,14 @@
+Graph is a data structure that consists of following two components:
+    Vertex - A single node in the graph, often encapsulates some sort of information.
+    Edge - Connects one or two vertices. Can contain a value quantifying the weight of the edge.
+
+Types of Graph  
+    Undirected - edges connect vertices in no specific direction, two vertices are simply connected or not.
+    Directed - edges connect vertices in a given direction, that is, vertex A might connect to vertex B,
+               but vertex B does not connect to vertex A.
+    Cyclic - contains at least one cycle (there exists a path starting at vertex A that eventually ends back at vertex A)
+    Acyclic - a graph without cycles
+
+Representations
+    Adjacency Matrix
+    Adjacency List
