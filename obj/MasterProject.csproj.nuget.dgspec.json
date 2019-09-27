@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\MasterProject.csproj": {}
+    "C:\\Users\\dinesh.b\\Desktop\\tutorial\\MasterProject\\MasterProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\MasterProject.csproj": {
+    "C:\\Users\\dinesh.b\\Desktop\\tutorial\\MasterProject\\MasterProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\MasterProject.csproj",
+        "projectUniqueName": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\MasterProject\\MasterProject.csproj",
         "projectName": "MasterProject",
-        "projectPath": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\MasterProject.csproj",
+        "projectPath": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\MasterProject\\MasterProject.csproj",
         "packagesPath": "C:\\Users\\dinesh.b\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\C#DataStructures\\obj\\",
+        "outputPath": "C:\\Users\\dinesh.b\\Desktop\\tutorial\\MasterProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

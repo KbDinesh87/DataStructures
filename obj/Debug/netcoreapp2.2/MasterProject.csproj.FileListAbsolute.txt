@@ -9,3 +9,14 @@ C:\Users\dinesh.b\Desktop\tutorial\C#DataStructures\obj\Debug\netcoreapp2.2\Mast
 C:\Users\dinesh.b\Desktop\tutorial\C#DataStructures\obj\Debug\netcoreapp2.2\MasterProject.AssemblyInfo.cs
 C:\Users\dinesh.b\Desktop\tutorial\C#DataStructures\obj\Debug\netcoreapp2.2\MasterProject.dll
 C:\Users\dinesh.b\Desktop\tutorial\C#DataStructures\obj\Debug\netcoreapp2.2\MasterProject.pdb
+C:\Users\dinesh.b\Desktop\tutorial\MasterProject\bin\Debug\netcoreapp2.2\MasterProject.deps.json
+C:\Users\dinesh.b\Desktop\tutorial\MasterProject\bin\Debug\netcoreapp2.2\MasterProject.runtimeconfig.json
+C:\Users\dinesh.b\Desktop\tutorial\MasterProject\bin\Debug\netcoreapp2.2\MasterProject.runtimeconfig.dev.json
+c:\Users\dinesh.b\Desktop\tutorial\MasterProject\bin\Debug\netcoreapp2.2\MasterProject.dll
+c:\Users\dinesh.b\Desktop\tutorial\MasterProject\bin\Debug\netcoreapp2.2\MasterProject.pdb
+c:\Users\dinesh.b\Desktop\tutorial\MasterProject\obj\Debug\netcoreapp2.2\MasterProject.csprojAssemblyReference.cache
+c:\Users\dinesh.b\Desktop\tutorial\MasterProject\obj\Debug\netcoreapp2.2\MasterProject.csproj.CoreCompileInputs.cache
+c:\Users\dinesh.b\Desktop\tutorial\MasterProject\obj\Debug\netcoreapp2.2\MasterProject.AssemblyInfoInputs.cache
+c:\Users\dinesh.b\Desktop\tutorial\MasterProject\obj\Debug\netcoreapp2.2\MasterProject.AssemblyInfo.cs
+c:\Users\dinesh.b\Desktop\tutorial\MasterProject\obj\Debug\netcoreapp2.2\MasterProject.dll
+c:\Users\dinesh.b\Desktop\tutorial\MasterProject\obj\Debug\netcoreapp2.2\MasterProject.pdb

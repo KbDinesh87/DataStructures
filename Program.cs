@@ -8,12 +8,13 @@ namespace MasterProject {
             FAQ.Inheritance1.Test ();
             FAQ.OperatorOverload.Test ();
             FAQ.DelegateClosure.Test ();
-            FAQ.GraphTest1.Test();
-            FAQ.GraphTest2.Test();
-            FAQ.BasicGraph_AdjList_Test.Test();
-            FAQ.BasicGraph_AdjMatrix_Test.Test();
+            FAQ.GraphTest1.Test ();
+            FAQ.GraphTest2.Test ();
+            FAQ.BasicGraph_AdjList_Test.Test ();
+            FAQ.BasicGraph_AdjMatrix_Test.Test ();
             Console.ReadLine ();
             Console.WriteLine ("Hello World!");
         }
+
     }
 }

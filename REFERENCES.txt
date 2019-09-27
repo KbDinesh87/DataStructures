@@ -1,0 +1,10 @@
+Design Patterns
+https://docs.microsoft.com/en-us/azure/architecture/patterns/
+
+E-Shop Microservices
+https://github.com/dotnet-architecture/eShopOnContainers
+
+Microservices - E BOOK
+https://aka.ms/microservicesebook
+
+
