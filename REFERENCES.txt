@@ -7,4 +7,6 @@ https://github.com/dotnet-architecture/eShopOnContainers
 Microservices - E BOOK
 https://aka.ms/microservicesebook
 
+CQRS 
+https://dzone.com/articles/microservices-with-cqrs-and-event-sourcing
 
