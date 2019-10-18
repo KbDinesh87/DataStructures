@@ -1,4 +1,5 @@
 
+
 function simplePrint(test) {
     if (test < 1)
         return;
@@ -79,6 +80,20 @@ function stringToInt(str) {
     return (parseInt)(x);
 }
 
+function factorial(num) {
+    if (num == 0) {
+        return 1;
+    }
+    return num * factorial(num - 1)
+}
+
+function greatCommonDivisor(a, b) {
+    if (!b) {
+        return a;
+    }
+    return greatCommonDivisor(b, a % b);
+}
+
 module.exports = {
     simplePrint: simplePrint,
     sumofArray: sumofArray,
@@ -87,6 +102,8 @@ module.exports = {
     stringLength: stringLength,
     isPalindromeNumber: isPalindromeNumber,
     isPalindromeString: isPalindromeString,
-    stringToInt: stringToInt
+    stringToInt: stringToInt,
+    factorial: factorial,
+    greatCommonDivisor : greatCommonDivisor
 }
 

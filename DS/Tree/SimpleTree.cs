@@ -64,29 +64,17 @@ namespace FAQ {
         /// <param name="child">the child to be added</param>
 
         public void AddChild (TreeNode<T> child)
-
         {
-
             if (child == null)
-
             {
-
                 throw new ArgumentNullException (
-
                     "Cannot insert null value!");
-
             }
-
             if (child.hasParent)
-
             {
-
                 throw new ArgumentException (
-
                     "The node already has a parent!");
-
             }
-
             child.hasParent = true;
 
             this.children.Add (child);
