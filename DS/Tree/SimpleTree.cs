@@ -9,10 +9,8 @@ namespace FAQ {
         private List<TreeNode<T>> children;
         /// <summary>Constructs a tree node</summary>
         /// <param name="value">the value of the node</param>
-        public TreeNode (T value)
-        {
-            if (value == null)
-            {
+        public TreeNode (T value) {
+            if (value == null) {
                 throw new ArgumentNullException (
                     "Cannot insert null value!");
             }
@@ -63,15 +61,12 @@ namespace FAQ {
 
         /// <param name="child">the child to be added</param>
 
-        public void AddChild (TreeNode<T> child)
-        {
-            if (child == null)
-            {
+        public void AddChild (TreeNode<T> child) {
+            if (child == null) {
                 throw new ArgumentNullException (
                     "Cannot insert null value!");
             }
-            if (child.hasParent)
-            {
+            if (child.hasParent) {
                 throw new ArgumentException (
                     "The node already has a parent!");
             }
@@ -244,7 +239,7 @@ namespace FAQ {
 
     {
 
-        static void Main ()
+        public void Test ()
 
         {
 
