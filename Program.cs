@@ -13,7 +13,8 @@ namespace MasterProject {
             FAQ.BasicGraph_AdjList_Test.Test ();
             FAQ.BasicGraph_AdjMatrix_Test.Test ();
             FAQ.SinglylinkedlistTest.Test();      
-            FAQ.DoublylinkedlistTest.Test();      
+            FAQ.DoublylinkedlistTest.Test();   
+            FAQ.OutRefCheck.Test();   
             Console.ReadLine ();
             Console.WriteLine ("Hello World!");
         }

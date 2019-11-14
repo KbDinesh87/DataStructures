@@ -1,0 +1,24 @@
+https://www.dotnettricks.com/learn/aspnetcore/top-20-asp-net-core-interview-questions-and-answers
+
+Authentication - Web API
+https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
+
+CQRS - Pattern
+
+1. Top features of .Net Core
+    Tag helpers
+2. Request Lify Cycle, (useMVC)
+3. Authentication
+4. Middleware
+5. DI
+6. Session , AddDistributedMemoryCache
+    AddTransient
+    AddSinglton
+    ..
+5. Life time of registered service
+
+
+
+
+
+    

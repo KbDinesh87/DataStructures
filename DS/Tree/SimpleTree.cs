@@ -235,7 +235,7 @@ namespace FAQ {
 
     /// </summary>
 
-    public static class TreeExample
+    public  class TreeExample
 
     {
 

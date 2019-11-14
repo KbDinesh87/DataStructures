@@ -1,0 +1,12 @@
+Migrations
+DBContext
+    Constructor, onConfiguring, DI
+    Threading issue
+DBSet
+Tracking
+ConnectionResilence
+Transatoin
+Execution Stratergy
+    Custom Stratergy
+Trabnsations
+Async Await in DBContext
